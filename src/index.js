@@ -12,7 +12,7 @@ async function handleRequest(request) {
     const url = new URL(request.url)  
     
     // Opção 1: Redirecionar para página personalizada  
-    return Response.redirect("https://seu-site.com/pagina-de-acesso-negado", 302)  
+    return Response.redirect("https://betteryourlife.online/acesso-negado", 302)  
     
     // Opção 2: Retornar HTML personalizado  
     /*  
