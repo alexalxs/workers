@@ -1,9 +1,9 @@
 name = "meu-cloudflare-worker"  
 type = "javascript"  
-account_id = "seu_account_id"  
+account_id = "faebb3606c0f5c31de4587bd601d3a26"  
 workers_dev = true  
-route = "https://seu-site.com/*"  
-zone_id = "seu_zone_id"  
+route = "https://betteryourlife.online/*"  
+zone_id = "a0f4a11423610fec6f3c99ef2be2d51c"  
 
 [build]  
 command = ""  
