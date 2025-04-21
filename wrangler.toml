@@ -1,9 +1,3 @@
 name = "meu-cloudflare-worker"  
-type = "javascript"  
-workers_dev = true  
-route = "https://betteryourlife.online/*"  
-
-[build]  
-command = ""  
-[build.upload]  
-format = "service-worker"  
+main = "src/index.js"  
+compatibility_date = "2025-04-20"  
